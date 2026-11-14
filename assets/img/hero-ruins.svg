@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 940" role="img" aria-labelledby="title desc">
+<title id="title">Ancient classical ruins under a warm evening sky</title><desc id="desc">Original vector illustration in an editorial poster style.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#dfa77e"/><stop offset=".48" stop-color="#e8c19b"/><stop offset="1" stop-color="#a98d6f"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e4d6b9"/><stop offset=".55" stop-color="#bca88c"/><stop offset="1" stop-color="#8e806b"/></linearGradient>
+ <pattern id="grain" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="7" cy="10" r="1" fill="#493e34" opacity=".12"/><circle cx="26" cy="23" r=".7" fill="#fff" opacity=".3"/><path d="M0 28h9" stroke="#42372d" opacity=".09"/></pattern>
+ <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M-2 12L12 -2 M4 14L14 4" stroke="#77684e" opacity=".2" stroke-width=".9"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="19"/></filter>
+</defs>
+<path fill="url(#sky)" d="M0 0h820v940H0z"/>
+<circle cx="550" cy="270" r="175" fill="#f5dbc1" opacity=".8" filter="url(#soft)"/><circle cx="550" cy="270" r="124" fill="#fae1be" opacity=".85"/>
+<path d="M0 520Q120 480 260 525T520 510T820 490V940H0Z" fill="#b39a7e" opacity=".55"/>
+<path d="M0 578Q180 522 374 573T820 552V940H0Z" fill="#8e826f" opacity=".6"/>
+<g opacity=".44" fill="#615f51"><path d="M20 585h65v-220h-8V339H39v26H30z"/><path d="M18 335h76v17H18z"/><path d="M703 586h50V406h-9v-32h-30v32h-11z"/><path d="M698 375h65v18h-65z"/></g>
+<path fill="#645e50" opacity=".7" d="M0 700Q130 645 252 690T524 675T820 651V940H0Z"/>
+<g transform="translate(96 208)">
+ <path d="M43 180L307 42l264 138-2 37H43Z" fill="#d3bf9c" stroke="#7a6d58" stroke-width="5"/>
+ <path d="M76 178L307 72l230 106" fill="none" stroke="#f0dfbd" stroke-width="13"/>
+ <path d="M84 163L307 89l226 74" fill="none" stroke="#9d8e73" stroke-width="2" opacity=".5"/>
+ <path d="M24 205h568v29H24z" fill="#e6d5b8" stroke="#7a6d58" stroke-width="4"/>
+ <path d="M37 236h544v37H37z" fill="#c6b597"/><path d="M30 272h552v18H30z" fill="#b29f82"/>
+ <g fill="url(#stone)" stroke="#746955" stroke-width="3">
+  <path d="M65 284h66v304H65zM178 284h66v304h-66zM291 284h66v304h-66zM404 284h66v304h-66zM517 284h40v304h-40z"/>
+ </g>
+ <g fill="none" stroke="#887962" stroke-width="2" opacity=".7">
+  <path d="M81 300v271m13-271v271m13-271v271m13-271v271M194 300v271m13-271v271m13-271v271m13-271v271M307 300v271m13-271v271m13-271v271m13-271v271M420 300v271m13-271v271m13-271v271m13-271v271M531 300v271m13-271v271"/>
+ </g>
+ <g fill="#f0dfc1" stroke="#776956" stroke-width="3"><path d="M49 279h95v20H49zM163 279h95v20h-95zM276 279h95v20h-95zM389 279h95v20h-95zM501 279h70v20h-70z"/><path d="M49 567h95v24H49zM163 567h95v24h-95zM276 567h95v24h-95zM389 567h95v24h-95zM501 567h70v24h-70z"/></g>
+ <path d="M29 587h569v32H29zM-9 620h636v28H-9z" fill="#ad9c7f" stroke="#776956" stroke-width="3"/>
+ <path d="M29 620h570" stroke="#efe1c3" stroke-width="5"/>
+ <path d="M262 186h94" stroke="#826d59" stroke-width="4" opacity=".4"/>
+</g>
+<path d="M0 787Q120 757 221 789T456 780T820 756V940H0Z" fill="#686957"/>
+<path d="M0 868Q170 809 319 850T820 832V940H0Z" fill="#414d40"/>
+<g fill="#3e4a3c" opacity=".93"><path d="M0 940V701q47 2 61 74 25 33 12 165z"/><path d="M820 940V719q-55 2-64 82-24 38-15 139z"/><path d="M0 940V837q74-30 141-12 54 8 75 115z"/><path d="M820 940V824q-66-17-138 10-59 26-69 106z"/></g>
+<path fill="url(#grain)" d="M0 0h820v940H0z"/>
+<rect x="17" y="17" width="786" height="906" fill="none" stroke="#f5e6cf" stroke-width="2" opacity=".35"/>
+</svg>
